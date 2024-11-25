@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "nagaNathan",
+      "email": "naga@gmail.com",
+      "phone": "9965836010"
+    },
+    {
+      "id": "2",
+      "name": "muthu",
+      "email": "muthu@gmail.com",
+      "phone": "6384836010"
+    },
+    {
+      "id": "3",
+      "name": "ramkumar",
+      "email": "rkr@gmail.com",
+      "phone": "8807636476"
+    },
+    {
+      "id": "4",
+      "name": "raja",
+      "email": "raja@gmail.com",
+      "phone": "6381718453"
+    },
+    {
+      "id": "5",
+      "name": "Jeeva",
+      "email": "jeevagmail.com",
+      "phone": "987654321"
+    },
+    {
+      "id": "6",
+      "name": "prem",
+      "email": "prem@gmail.com",
+      "phone": "8438401191"
+    }
+  ]
+}
